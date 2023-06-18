@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1268.4305"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-644.939270 -552.000000 1268.430542 1107.000000" height="1107.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Ruth_DeSand"
+              d="M -6.800725,33.487186 A 425.459680,425.459680 0,0 1,-323.987488,348.579926"
+              stroke="#f59c4f" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Brenda_Rogers"
+              d="M -25.034664,21.815479 A 234.973059,234.973059 0,0 1,-256.481201,34.008099"
+              stroke="#f2d36b" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Nora_Fayette"
+              d="M -21.437277,25.892389 A 435.051049,435.051049 0,0 1,-468.996948,127.663857"
+              stroke="#f59c4f" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Sylvia_Avondale"
+              d="M 27.021307,15.226553 A 232.664277,232.664277 0,0 1,156.347702,186.813934"
+              stroke="#f59c4f" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Myra_Liddel"
+              d="M 22.901333,-14.261380 A 236.806835,236.806835 0,0 1,256.174835,-32.485283"
+              stroke="#f2ca66" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Olivia_Carleton"
+              d="M 24.905308,-11.324555 A 439.366031,439.366031 0,0 1,501.777618,22.042345"
+              stroke="#f2ca66" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Dorothy_Murchison"
+              d="M -4.457533,-25.693729 A 234.485795,234.485795 0,0 1,97.841599,-233.005875"
+              stroke="#f2ca66" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Verne_Sanderson"
+              d="M -19.493555,-19.404036 A 425.511254,425.511254 0,0 1,-56.114986,-465.739349"
+              stroke="#f68d47" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Laura_Mandeville"
+              d="M -4.202257,-25.723684 A 441.448448,441.448448 0,0 1,224.912933,-448.130371"
+              stroke="#f2d36b" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Katherina_Rogers"
+              d="M -30.071404,10.806464 A 426.221373,426.221373 0,0 1,-458.915924,-161.668274"
+              stroke="#f2ca66" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Flora_Price"
+              d="M 29.159758,4.713123 A 429.755690,429.755690 0,0 1,406.232086,279.339539"
+              stroke="#f2ca66" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Theresa_Anderson"
+              d="M 10.841679,31.721458 A 429.518873,429.518873 0,0 1,-74.459007,475.927185"
+              stroke="#f59c4f" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Frances_Anderson"
+              d="M 23.624062,21.459503 A 428.423750,428.423750 0,0 1,180.710266,458.992432"
+              stroke="#f2d36b" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Pearl_Oglethorpe"
+              d="M -29.172028,-5.759170 A 441.023644,441.023644 0,0 1,-310.785736,-394.506134"
+              stroke="#f2ca66" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Eleanor_Nye"
+              d="M -28.439960,-7.656245 A 235.913865,235.913865 0,0 1,-156.068497,-185.390854"
+              stroke="#f59c4f" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Helen_Lloyd"
+              d="M 12.160441,-22.953232 A 426.526345,426.526345 0,0 1,398.865479,-251.234070"
+              stroke="#f68d47" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evelyn_Jefferson id_Charlotte_McDowd"
+              d="M 2.782539,33.867847 A 234.405051,234.405051 0,0 1,-99.521629,241.068634"
+              stroke="#f5e97b" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Laura_Mandeville id_Brenda_Rogers"
+              d="M 245.196259,-432.285706 A 598.713355,598.713355 0,0 1,-252.606064,15.504151"
+              stroke="#f2d36b" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Laura_Mandeville id_Ruth_DeSand"
+              d="M 251.021683,-431.572510 A 856.419440,856.419440 0,0 1,-325.438965,342.631042"
+              stroke="#f59c4f" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Laura_Mandeville id_Nora_Fayette"
+              d="M 242.770905,-432.935181 A 795.045440,795.045440 0,0 1,-465.611603,108.905060"
+              stroke="#f59c4f" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Laura_Mandeville id_Sylvia_Avondale"
+              d="M 265.739502,-435.032196 A 583.654609,583.654609 0,0 1,190.312500,198.626236"
+              stroke="#f59c4f" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Laura_Mandeville id_Myra_Liddel"
+              d="M 270.418152,-438.090149 A 370.484732,370.484732 0,0 1,297.735992,-43.872036"
+              stroke="#f2ca66" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Laura_Mandeville id_Dorothy_Murchison"
+              d="M 252.650391,-431.577881 A 207.334765,207.334765 0,0 1,150.575638,-261.540314"
+              stroke="#f2ca66" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Laura_Mandeville id_Verne_Sanderson"
+              d="M 224.441330,-449.116547 A 240.094341,240.094341 0,0 1,2.157704,-475.854004"
+              stroke="#f68d47" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Laura_Mandeville id_Katherina_Rogers"
+              d="M 235.068665,-436.620789 A 647.745132,647.745132 0,0 1,-446.359833,-179.077255"
+              stroke="#f2ca66" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Laura_Mandeville id_Theresa_Anderson"
+              d="M 259.773743,-432.660461 A 861.944241,861.944241 0,0 1,-69.375542,482.138000"
+              stroke="#f59c4f" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Laura_Mandeville id_Frances_Anderson"
+              d="M 267.206421,-435.859833 A 793.989074,793.989074 0,0 1,192.385239,465.154236"
+              stroke="#f2d36b" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Laura_Mandeville id_Pearl_Oglethorpe"
+              d="M 228.359604,-442.762634 A 470.220471,470.220471 0,0 1,-285.668579,-408.926819"
+              stroke="#f2ca66" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Laura_Mandeville id_Eleanor_Nye"
+              d="M 238.587280,-434.599518 A 391.681706,391.681706 0,0 1,-112.162727,-227.998840"
+              stroke="#f59c4f" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Laura_Mandeville id_Helen_Lloyd"
+              d="M 280.763458,-453.982788 A 240.008739,240.008739 0,0 1,436.191559,-292.984375"
+              stroke="#f68d47" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Laura_Mandeville id_Charlotte_McDowd"
+              d="M 255.852509,-431.847565 A 675.740787,675.740787 0,0 1,-98.561005,242.830170"
+              stroke="#f5e97b" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theresa_Anderson id_Ruth_DeSand"
+              d="M -154.071503,509.586975 A 252.547547,252.547547 0,0 1,-347.806274,397.833710"
+              stroke="#f86633" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theresa_Anderson id_Brenda_Rogers"
+              d="M -144.962128,480.676483 A 433.037855,433.037855 0,0 1,-290.295471,47.865467"
+              stroke="#f59c4f" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theresa_Anderson id_Nora_Fayette"
+              d="M -153.312225,499.856323 A 472.830232,472.830232 0,0 1,-502.832703,155.706406"
+              stroke="#f86633" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theresa_Anderson id_Sylvia_Avondale"
+              d="M -98.522743,462.825592 A 319.834709,319.834709 0,0 1,114.628242,243.176193"
+              stroke="#f86633" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theresa_Anderson id_Myra_Liddel"
+              d="M -105.978264,461.942749 A 545.993478,545.993478 0,0 1,253.965103,-8.697335"
+              stroke="#f5934a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theresa_Anderson id_Olivia_Carleton"
+              d="M -92.807465,464.362366 A 655.601679,655.601679 0,0 1,495.123322,41.355022"
+              stroke="#f5934a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theresa_Anderson id_Dorothy_Murchison"
+              d="M -121.910774,464.144440 A 659.288813,659.288813 0,0 1,99.858376,-230.013779"
+              stroke="#f5934a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theresa_Anderson id_Verne_Sanderson"
+              d="M -131.647476,468.575134 A 847.142300,847.142300 0,0 1,-62.280918,-470.031677"
+              stroke="#f9562b" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theresa_Anderson id_Katherina_Rogers"
+              d="M -148.927673,487.043030 A 655.270258,655.270258 0,0 1,-479.368958,-157.029556"
+              stroke="#f5934a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theresa_Anderson id_Flora_Price"
+              d="M -81.064774,470.309753 A 467.357820,467.357820 0,0 1,386.930939,300.400574"
+              stroke="#f5934a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theresa_Anderson id_Frances_Anderson"
+              d="M -69.839012,481.472137 A 234.428854,234.428854 0,0 1,146.662628,473.386780"
+              stroke="#f59c4f" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theresa_Anderson id_Pearl_Oglethorpe"
+              d="M -141.905655,476.971405 A 795.648162,795.648162 0,0 1,-323.259857,-396.984741"
+              stroke="#f5934a" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theresa_Anderson id_Eleanor_Nye"
+              d="M -136.644745,472.054779 A 617.809576,617.809576 0,0 1,-181.623566,-191.853699"
+              stroke="#f86633" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theresa_Anderson id_Helen_Lloyd"
+              d="M -106.890022,461.918060 A 780.337646,780.337646 0,0 1,401.155640,-233.062408"
+              stroke="#f9562b" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Theresa_Anderson id_Charlotte_McDowd"
+              d="M -134.007034,470.097015 A 210.521524,210.521524 0,0 1,-139.804489,282.600769"
+              stroke="#f8b25f" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brenda_Rogers id_Ruth_DeSand"
+              d="M -272.464935,47.223396 A 290.789936,290.789936 0,0 1,-335.963257,324.641541"
+              stroke="#f59c4f" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brenda_Rogers id_Nora_Fayette"
+              d="M -299.883759,43.306587 A 205.891525,205.891525 0,0 1,-466.128510,117.248878"
+              stroke="#f59c4f" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brenda_Rogers id_Sylvia_Avondale"
+              d="M -252.775986,14.254380 A 409.032500,409.032500 0,0 1,136.052780,193.089386"
+              stroke="#f59c4f" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brenda_Rogers id_Myra_Liddel"
+              d="M -259.028137,0.125307 A 471.742077,471.742077 0,0 1,256.838531,-33.633102"
+              stroke="#f2ca66" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brenda_Rogers id_Dorothy_Murchison"
+              d="M -271.215759,-8.912757 A 405.080118,405.080118 0,0 1,93.690590,-248.983765"
+              stroke="#f2ca66" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brenda_Rogers id_Verne_Sanderson"
+              d="M -287.444519,-10.654603 A 483.931459,483.931459 0,0 1,-72.672050,-482.221283"
+              stroke="#f68d47" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brenda_Rogers id_Katherina_Rogers"
+              d="M -311.567444,11.856202 A 235.014080,235.014080 0,0 1,-470.170410,-157.212540"
+              stroke="#f2ca66" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brenda_Rogers id_Frances_Anderson"
+              d="M -252.918991,24.417740 A 544.728931,544.728931 0,0 1,168.269196,458.312408"
+              stroke="#f2d36b" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brenda_Rogers id_Pearl_Oglethorpe"
+              d="M -300.994904,-4.630626 A 370.301906,370.301906 0,0 1,-326.679047,-398.738037"
+              stroke="#f2ca66" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brenda_Rogers id_Eleanor_Nye"
+              d="M -285.938141,-10.871825 A 232.890031,232.890031 0,0 1,-196.891357,-206.718918"
+              stroke="#f59c4f" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brenda_Rogers id_Helen_Lloyd"
+              d="M -265.496704,-5.857071 A 645.429611,645.429611 0,0 1,400.238739,-259.446533"
+              stroke="#f68d47" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brenda_Rogers id_Charlotte_McDowd"
+              d="M -254.851044,30.771320 A 237.192526,237.192526 0,0 1,-125.492172,226.304749"
+              stroke="#f5e97b" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Charlotte_McDowd id_Verne_Sanderson"
+              d="M -139.731628,229.968292 A 639.496028,639.496028 0,0 1,-63.617844,-471.178558"
+              stroke="#f9a357" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Charlotte_McDowd id_Ruth_DeSand"
+              d="M -142.456650,280.959473 A 220.417497,220.417497 0,0 1,-323.793060,363.572235"
+              stroke="#f8b25f" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Charlotte_McDowd id_Nora_Fayette"
+              d="M -154.514359,263.396942 A 344.421933,344.421933 0,0 1,-484.527679,147.617706"
+              stroke="#f8b25f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Charlotte_McDowd id_Sylvia_Avondale"
+              d="M -101.722656,237.836945 A 238.135367,238.135367 0,0 1,118.287872,212.120255"
+              stroke="#f8b25f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Charlotte_McDowd id_Frances_Anderson"
+              d="M -95.427261,258.239502 A 314.705111,314.705111 0,0 1,163.604675,459.427216"
+              stroke="#f5e97b" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Charlotte_McDowd id_Eleanor_Nye"
+              d="M -144.078201,232.856476 A 407.288751,407.288751 0,0 1,-180.900833,-191.431015"
+              stroke="#f8b25f" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Charlotte_McDowd id_Helen_Lloyd"
+              d="M -118.615242,227.073608 A 634.166591,634.166591 0,0 1,399.049408,-242.424393"
+              stroke="#f9a357" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Frances_Anderson id_Ruth_DeSand"
+              d="M 144.962387,498.916229 A 465.512575,465.512575 0,0 1,-338.513062,391.224213"
+              stroke="#f59c4f" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Frances_Anderson id_Nora_Fayette"
+              d="M 143.091324,491.440765 A 651.784896,651.784896 0,0 1,-491.440491,151.819550"
+              stroke="#f59c4f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Frances_Anderson id_Sylvia_Avondale"
+              d="M 155.317444,463.638611 A 212.998814,212.998814 0,0 1,138.074173,273.457489"
+              stroke="#f59c4f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Frances_Anderson id_Myra_Liddel"
+              d="M 161.331299,460.270050 A 431.442244,431.442244 0,0 1,260.496033,2.376810"
+              stroke="#f2ca66" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Frances_Anderson id_Dorothy_Murchison"
+              d="M 153.888321,464.738159 A 614.870428,614.870428 0,0 1,107.940514,-222.708572"
+              stroke="#f2ca66" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Frances_Anderson id_Verne_Sanderson"
+              d="M 150.747894,467.710907 A 845.481737,845.481737 0,0 1,-51.422298,-463.360596"
+              stroke="#f68d47" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Frances_Anderson id_Katherina_Rogers"
+              d="M 143.378922,482.550171 A 779.719106,779.719106 0,0 1,-471.139374,-157.058670"
+              stroke="#f2ca66" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Frances_Anderson id_Pearl_Oglethorpe"
+              d="M 145.964737,474.720917 A 860.806749,860.806749 0,0 1,-315.441956,-394.787628"
+              stroke="#f2ca66" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Frances_Anderson id_Eleanor_Nye"
+              d="M 146.836182,473.078644 A 659.814223,659.814223 0,0 1,-166.160110,-186.070816"
+              stroke="#f59c4f" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Frances_Anderson id_Helen_Lloyd"
+              d="M 164.983932,459.014709 A 653.629887,653.629887 0,0 1,406.994263,-221.487320"
+              stroke="#f68d47" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Eleanor_Nye id_Ruth_DeSand"
+              d="M -146.515396,-186.815765 A 520.905588,520.905588 0,0 1,-332.160339,329.249115"
+              stroke="#f86633" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Eleanor_Nye id_Nora_Fayette"
+              d="M -167.892365,-186.415909 A 409.904387,409.904387 0,0 1,-466.348633,101.879669"
+              stroke="#f86633" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Eleanor_Nye id_Sylvia_Avondale"
+              d="M -115.261375,-214.438873 A 468.548158,468.548158 0,0 1,159.165314,186.711807"
+              stroke="#f86633" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Eleanor_Nye id_Myra_Liddel"
+              d="M -112.466225,-237.591644 A 407.864287,407.864287 0,0 1,267.743866,-44.182117"
+              stroke="#f5934a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Eleanor_Nye id_Dorothy_Murchison"
+              d="M -120.217628,-257.529114 A 235.190446,235.190446 0,0 1,97.643517,-263.147522"
+              stroke="#f5934a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Eleanor_Nye id_Verne_Sanderson"
+              d="M -163.725143,-276.995972 A 251.108516,251.108516 0,0 1,-71.198685,-479.876587"
+              stroke="#f9562b" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Eleanor_Nye id_Katherina_Rogers"
+              d="M -193.316132,-201.825043 A 267.030044,267.030044 0,0 1,-448.315918,-173.773682"
+              stroke="#f5934a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Eleanor_Nye id_Pearl_Oglethorpe"
+              d="M -200.949341,-247.926849 A 205.479207,205.479207 0,0 1,-308.303986,-394.652435"
+              stroke="#f5934a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Eleanor_Nye id_Helen_Lloyd"
+              d="M -120.735634,-258.262115 A 502.500540,502.500540 0,0 1,406.019806,-272.625519"
+              stroke="#f9562b" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pearl_Oglethorpe id_Ruth_DeSand"
+              d="M -295.745453,-398.854370 A 652.820358,652.820358 0,0 1,-340.554779,320.365601"
+              stroke="#f5934a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pearl_Oglethorpe id_Nora_Fayette"
+              d="M -303.801361,-395.456146 A 475.949942,475.949942 0,0 1,-474.148865,83.372215"
+              stroke="#f5934a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pearl_Oglethorpe id_Sylvia_Avondale"
+              d="M -282.908386,-414.836700 A 673.669509,673.669509 0,0 1,158.860901,186.714508"
+              stroke="#f5934a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pearl_Oglethorpe id_Myra_Liddel"
+              d="M -281.313904,-425.048157 A 599.641751,599.641751 0,0 1,272.126617,-46.205929"
+              stroke="#f3c162" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pearl_Oglethorpe id_Olivia_Carleton"
+              d="M -281.513855,-428.002106 A 797.652760,797.652760 0,0 1,512.386108,13.724221"
+              stroke="#f3c162" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pearl_Oglethorpe id_Dorothy_Murchison"
+              d="M -282.033112,-431.053314 A 391.118683,391.118683 0,0 1,107.223709,-273.329803"
+              stroke="#f3c162" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pearl_Oglethorpe id_Verne_Sanderson"
+              d="M -291.841095,-447.327057 A 241.546189,241.546189 0,0 1,-77.400169,-517.554810"
+              stroke="#f68442" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pearl_Oglethorpe id_Katherina_Rogers"
+              d="M -311.994812,-394.509399 A 240.706981,240.706981 0,0 1,-447.562622,-198.045059"
+              stroke="#f3c162" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pearl_Oglethorpe id_Flora_Price"
+              d="M -281.704956,-419.643036 A 860.044216,860.044216 0,0 1,411.369446,278.058502"
+              stroke="#f3c162" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pearl_Oglethorpe id_Helen_Lloyd"
+              d="M -283.569641,-435.926636 A 647.019170,647.019170 0,0 1,413.949280,-281.963531"
+              stroke="#f68442" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ruth_DeSand id_Nora_Fayette"
+              d="M -411.068420,334.084045 A 236.993653,236.993653 0,0 1,-513.060547,156.607330"
+              stroke="#f86633" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ruth_DeSand id_Sylvia_Avondale"
+              d="M -338.216248,322.399597 A 453.184390,453.184390 0,0 1,116.415581,216.387894"
+              stroke="#f86633" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ruth_DeSand id_Myra_Liddel"
+              d="M -350.005981,314.399902 A 627.075221,627.075221 0,0 1,252.616196,-20.990652"
+              stroke="#f5934a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ruth_DeSand id_Olivia_Carleton"
+              d="M -342.975250,318.524567 A 791.055775,791.055775 0,0 1,496.333313,32.441181"
+              stroke="#f5934a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ruth_DeSand id_Dorothy_Murchison"
+              d="M -366.480408,310.013885 A 650.711848,650.711848 0,0 1,94.734924,-240.367249"
+              stroke="#f5934a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ruth_DeSand id_Verne_Sanderson"
+              d="M -381.228241,311.221802 A 771.447367,771.447367 0,0 1,-71.369705,-480.133240"
+              stroke="#f9562b" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ruth_DeSand id_Katherina_Rogers"
+              d="M -403.131836,323.539795 A 461.282483,461.282483 0,0 1,-487.581787,-159.363098"
+              stroke="#f5934a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ruth_DeSand id_Flora_Price"
+              d="M -333.401215,327.610382 A 656.364415,656.364415 0,0 1,390.588013,291.798767"
+              stroke="#f5934a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ruth_DeSand id_Helen_Lloyd"
+              d="M -355.506012,312.202881 A 845.453610,845.453610 0,0 1,398.747070,-246.774765"
+              stroke="#f9562b" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Verne_Sanderson id_Nora_Fayette"
+              d="M -35.442032,-459.577118 A 650.083287,650.083287 0,0 1,-467.690948,96.425018"
+              stroke="#f9562b" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Verne_Sanderson id_Sylvia_Avondale"
+              d="M 1.925345,-475.580719 A 635.742111,635.742111 0,0 1,175.295837,189.536774"
+              stroke="#f9562b" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Verne_Sanderson id_Myra_Liddel"
+              d="M 9.356129,-487.579742 A 483.870830,483.870830 0,0 1,283.614349,-48.024117"
+              stroke="#f68442" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Verne_Sanderson id_Olivia_Carleton"
+              d="M 12.358467,-497.883057 A 650.883865,650.883865 0,0 1,519.879944,11.348849"
+              stroke="#f68442" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Verne_Sanderson id_Dorothy_Murchison"
+              d="M 7.965826,-484.597443 A 251.020040,251.020040 0,0 1,124.781288,-278.226990"
+              stroke="#f68442" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Verne_Sanderson id_Katherina_Rogers"
+              d="M -48.930256,-462.357330 A 454.362114,454.362114 0,0 1,-445.362213,-187.178070"
+              stroke="#f68442" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Verne_Sanderson id_Flora_Price"
+              d="M 8.366073,-485.400757 A 774.120351,774.120351 0,0 1,419.610535,277.908478"
+              stroke="#f68442" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Verne_Sanderson id_Helen_Lloyd"
+              d="M 12.775264,-510.009155 A 452.354515,452.354515 0,0 1,423.354004,-288.513397"
+              stroke="#fa4723" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Myra_Liddel id_Nora_Fayette"
+              d="M 261.169250,3.078060 A 670.626550,670.626550 0,0 1,-470.188690,130.353180"
+              stroke="#f5934a" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Myra_Liddel id_Sylvia_Avondale"
+              d="M 286.146820,11.728095 A 232.767452,232.767452 0,0 1,198.147507,207.884964"
+              stroke="#f5934a" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Myra_Liddel id_Olivia_Carleton"
+              d="M 310.822418,-27.854832 A 208.085522,208.085522 0,0 1,504.426392,19.167051"
+              stroke="#f3c162" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Myra_Liddel id_Dorothy_Murchison"
+              d="M 254.699768,-29.392323 A 233.045670,233.045670 0,0 1,124.423882,-218.256348"
+              stroke="#f3c162" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Myra_Liddel id_Katherina_Rogers"
+              d="M 254.854218,-6.328573 A 646.986465,646.986465 0,0 1,-455.321381,-164.433701"
+              stroke="#f3c162" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Myra_Liddel id_Flora_Price"
+              d="M 307.410675,-1.371719 A 293.381514,293.381514 0,0 1,422.086060,278.311615"
+              stroke="#f3c162" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Myra_Liddel id_Helen_Lloyd"
+              d="M 283.535522,-48.027016 A 234.387249,234.387249 0,0 1,402.560181,-229.421875"
+              stroke="#f68442" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Katherina_Rogers id_Nora_Fayette"
+              d="M -462.025391,-159.886490 A 249.359070,249.359070 0,0 1,-483.067993,73.938675"
+              stroke="#f5934a" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Katherina_Rogers id_Sylvia_Avondale"
+              d="M -445.378662,-187.837250 A 634.047623,634.047623 0,0 1,142.375092,189.986359"
+              stroke="#f5934a" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Katherina_Rogers id_Olivia_Carleton"
+              d="M -447.753571,-198.504456 A 855.042996,855.042996 0,0 1,505.313141,18.355505"
+              stroke="#f3c162" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Katherina_Rogers id_Dorothy_Murchison"
+              d="M -452.724030,-206.449066 A 501.823456,501.823456 0,0 1,97.518593,-262.927063"
+              stroke="#f3c162" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Katherina_Rogers id_Flora_Price"
+              d="M -445.572906,-190.333786 A 849.453091,849.453091 0,0 1,403.293091,280.532593"
+              stroke="#f3c162" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Katherina_Rogers id_Helen_Lloyd"
+              d="M -452.225891,-205.861298 A 768.430654,768.430654 0,0 1,405.456024,-271.724060"
+              stroke="#f68442" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sylvia_Avondale id_Nora_Fayette"
+              d="M 117.468773,251.577087 A 568.747536,568.747536 0,0 1,-479.109589,142.955566"
+              stroke="#f86633" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sylvia_Avondale id_Olivia_Carleton"
+              d="M 181.922043,192.589417 A 344.128303,344.128303 0,0 1,495.324127,37.391327"
+              stroke="#f5934a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sylvia_Avondale id_Dorothy_Murchison"
+              d="M 131.203491,196.383209 A 401.903620,401.903620 0,0 1,108.463928,-222.393265"
+              stroke="#f5934a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sylvia_Avondale id_Flora_Price"
+              d="M 203.925400,221.072861 A 222.783118,222.783118 0,0 1,396.467072,284.950806"
+              stroke="#f5934a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sylvia_Avondale id_Helen_Lloyd"
+              d="M 156.744034,186.789108 A 465.683779,465.683779 0,0 1,403.134369,-228.155746"
+              stroke="#f9562b" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nora_Fayette id_Olivia_Carleton"
+              d="M -476.014923,80.918747 A 866.189541,866.189541 0,0 1,499.692993,24.966587"
+              stroke="#f5934a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nora_Fayette id_Dorothy_Murchison"
+              d="M -491.727539,68.479065 A 608.150967,608.150967 0,0 1,93.847939,-251.402405"
+              stroke="#f5934a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nora_Fayette id_Flora_Price"
+              d="M -469.337341,91.958824 A 790.667948,790.667948 0,0 1,395.877533,285.471527"
+              stroke="#f5934a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nora_Fayette id_Helen_Lloyd"
+              d="M -485.928314,71.832199 A 851.264411,851.264411 0,0 1,400.263336,-259.540039"
+              stroke="#f9562b" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Helen_Lloyd id_Olivia_Carleton"
+              d="M 478.457825,-216.498505 A 249.712896,249.712896 0,0 1,534.323303,12.334383"
+              stroke="#f68442" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Helen_Lloyd id_Dorothy_Murchison"
+              d="M 405.664551,-223.506882 A 267.545639,267.545639 0,0 1,148.629013,-231.585098"
+              stroke="#f68442" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Helen_Lloyd id_Flora_Price"
+              d="M 468.474152,-208.383133 A 463.516878,463.516878 0,0 1,434.489777,284.045319"
+              stroke="#f68442" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dorothy_Murchison id_Olivia_Carleton"
+              d="M 153.677170,-247.734879 A 412.269754,412.269754 0,0 1,515.129211,12.600094"
+              stroke="#f3c162" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dorothy_Murchison id_Flora_Price"
+              d="M 150.403656,-234.611572 A 523.436004,523.436004 0,0 1,419.941162,277.950104"
+              stroke="#f3c162" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Olivia_Carleton id_Flora_Price"
+              d="M 530.870422,70.331383 A 240.205425,240.205425 0,0 1,440.762848,290.713959"
+              stroke="#f3c162" stroke-width="2.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#f2d36b" r="27.6" cx="-0.8336993"
+                class="id_Evelyn_Jefferson" cy="4.086596" stroke="#a9934a"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#f2d36b" r="27.6" cx="251.73715"
+                class="id_Laura_Mandeville" cy="-461.56396" stroke="#a9934a"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#f86633" r="42.688" cx="-107.68904"
+                class="id_Theresa_Anderson" cy="508.3112" stroke="#ad4723"
+                stroke-opacity="1.0" stroke-width="7.4239993"/>
+        <circle fill-opacity="1.0" fill="#f2d36b" r="27.6" cx="-282.41095"
+                class="id_Brenda_Rogers" cy="18.920101" stroke="#a9934a"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#f9ff8b" r="27.6" cx="-125.36479"
+                class="id_Charlotte_McDowd" cy="256.30447" stroke="#aeb261"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#f2d36b" r="27.6" cx="172.88809"
+                class="id_Frances_Anderson" cy="487.9547" stroke="#a9934a"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#f86633" r="42.32" cx="-158.0406"
+                class="id_Eleanor_Nye" cy="-231.34856" stroke="#ad4723"
+                stroke-opacity="1.0" stroke-width="7.3599997"/>
+        <circle fill-opacity="1.0" fill="#f3c162" r="27.6" cx="-311.30893"
+                class="id_Pearl_Oglethorpe" cy="-424.50156" stroke="#aa8744"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#f86633" r="43.056004" cx="-370.08203"
+                class="id_Ruth_DeSand" cy="356.6751" stroke="#ad4723"
+                stroke-opacity="1.0" stroke-width="7.4880004"/>
+        <circle fill-opacity="1.0" fill="#fa4723" r="42.32" cx="-33.004425"
+                class="id_Verne_Sanderson" cy="-505.51248" stroke="#af3118"
+                stroke-opacity="1.0" stroke-width="7.3599997"/>
+        <circle fill-opacity="1.0" fill="#f3c162" r="27.6" cx="282.4713"
+                class="id_Myra_Liddel" cy="-18.045898" stroke="#aa8744"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#f3c162" r="27.6" cx="-475.3593"
+                class="id_Katherina_Rogers" cy="-186.76039" stroke="#aa8744"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#f86633" r="42.32" cx="159.42201"
+                class="id_Sylvia_Avondale" cy="232.71109" stroke="#ad4723"
+                stroke-opacity="1.0" stroke-width="7.3599997"/>
+        <circle fill-opacity="1.0" fill="#f86633" r="42.688" cx="-511.99298"
+                class="id_Nora_Fayette" cy="110.219604" stroke="#ad4723"
+                stroke-opacity="1.0" stroke-width="7.4240003"/>
+        <circle fill-opacity="1.0" fill="#fa4723" r="42.32" cx="444.736"
+                class="id_Helen_Lloyd" cy="-247.7849" stroke="#af3118"
+                stroke-opacity="1.0" stroke-width="7.3599997"/>
+        <circle fill-opacity="1.0" fill="#f3c162" r="27.6" cx="123.68155"
+                class="id_Dorothy_Murchison" cy="-248.24716" stroke="#aa8744"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#f3c162" r="27.6" cx="525.1197"
+                class="id_Olivia_Carleton" cy="40.887722" stroke="#aa8744"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#f3c162" r="27.6" cx="416.03082"
+                class="id_Flora_Price" cy="307.69415" stroke="#aa8744"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="30" x="-0.8336993" y="11.127611" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Evelyn_Jefferson">
+            Evelyn Jefferson
+        </text>
+        <text font-size="30" x="251.73715" y="-456.10742" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Laura_Mandeville">
+            Laura Mandeville
+        </text>
+        <text font-size="46" x="-107.68904" y="516.67786" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Theresa_Anderson">
+            Theresa Anderson
+        </text>
+        <text font-size="30" x="-282.41095" y="25.868343" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Brenda_Rogers">
+            Brenda Rogers
+        </text>
+        <text font-size="30" x="-125.36479" y="261.85867" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Charlotte_McDowd">
+            Charlotte McDowd
+        </text>
+        <text font-size="30" x="172.88809" y="493.41125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Frances_Anderson">
+            Frances Anderson
+        </text>
+        <text font-size="46" x="-158.0406" y="-220.69458" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Eleanor_Nye">
+            Eleanor Nye
+        </text>
+        <text font-size="30" x="-311.30893" y="-417.4581" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pearl_Oglethorpe">
+            Pearl Oglethorpe
+        </text>
+        <text font-size="47" x="-370.08203" y="365.3767" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ruth_DeSand">
+            Ruth DeSand
+        </text>
+        <text font-size="46" x="-33.004425" y="-496.99603" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Verne_Sanderson">
+            Verne Sanderson
+        </text>
+        <text font-size="30" x="282.4713" y="-11.097656" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Myra_Liddel">
+            Myra Liddel
+        </text>
+        <text font-size="30" x="-475.3593" y="-179.81215" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Katherina_Rogers">
+            Katherina Rogers
+        </text>
+        <text font-size="46" x="159.42201" y="243.50732" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sylvia_Avondale">
+            Sylvia Avondale
+        </text>
+        <text font-size="46" x="-511.99298" y="120.87357" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nora_Fayette">
+            Nora Fayette
+        </text>
+        <text font-size="46" x="444.736" y="-237.13092" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Helen_Lloyd">
+            Helen Lloyd
+        </text>
+        <text font-size="30" x="123.68155" y="-241.29892" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dorothy_Murchison">
+            Dorothy Murchison
+        </text>
+        <text font-size="30" x="525.1197" y="46.444363" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Olivia_Carleton">
+            Olivia Carleton
+        </text>
+        <text font-size="30" x="416.03082" y="313.1507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Flora_Price">
+            Flora Price
+        </text>
+    </g>
+</svg>
